@@ -18,3 +18,17 @@ in this prjoect i will try to analyst export and import from india dataset
     "Miscellaneous"
 5.  after make the new column and one hot encoding if that word in category
 6.  After that make graph for analysis
+7.  ![My Image](picture/import export total.png)
+
+8.  ![My Image](picture/download.png)
+9.   ![My Image](picture/download (1).png)
+10.    ![My Image](picture/download (2).png)
+11. ![My Image](picture/download (3).png)
+12.  ![My Image](picture/download (4).png)
+13.   ![My Image](picture/download (5).png)
+14.    ![My Image](picture/download (6).png)
+15. ![My Image](picture/download (7).png)
+16.  ![My Image](picture/download (8).png)
+17.   ![My Image](picture/download (9).png)
+18.    ![My Image](picture/download (10).png)
+19.![My Image](picture/download (11).png)
