@@ -23,8 +23,9 @@ from that chart, the highest value for import exports is in the metal and fuel c
 
 8.  ![My Image](picture/download.png)
 9.   ![My Image](picture/download(1).png)
-10.   ![My Image](picture/download(2).png)
-11. [My Image](picture/download(3).png)
+     From both graphs, it can be seen that every year the need for animal products is decreasing and for vegetables is increasing. This indicates that the global community is starting to realize the importance of healthy food.
+11.   ![My Image](picture/download(2).png)
+12. [My Image](picture/download(3).png)
 1.  ![My Image](picture/download(4).png)
 13   ![My Image](picture/download(5).png)
 14.   ![My Image](picture/download(6).png)
