@@ -18,7 +18,8 @@ in this prjoect i will try to analyst export and import from india dataset
     "Miscellaneous"
 5.  after make the new column and one hot encoding if that word in category
 6.  After that make graph for analysis
-7.  ![My Image](picture/importexporttotal.png)
+  ![Import Exprt Total Category](picture/importexporttotal.png)
+from that chart, the highest value for import exports is in the metal and fuel category and the lowest for imports is animal products and exports are wood and paper products. this indicates that the country is in great need of high fuel resources and is exchanged for mining products produced besides that the need for animal products has been met due to the small amount of imports. for the wood and paper industry needs to be increased because exports are the lowest and lower than imports. this indicates that the need for wood and paper is still not met
 
 8.  ![My Image](picture/download.png)
 9.   ![My Image](picture/download(1).png)
